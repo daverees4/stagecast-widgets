@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Wigmore Hall]]></title>
+    <link href="http://stagecast.net/whitelabel/atom.xml" rel="self"/>
+    <link href="http://stagecast.net/whitelabel/"/>
+    <updated>2017-04-01T11:00:31+00:00</updated>
+    <id>http://stagecast.net/whitelabel/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+    </feed>
